@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ammari Baher</h1>
 <h3 align="center">Software Engineer From Tunisia</h3>
 
-- 🔭 I’m currently working on [FarmerToConsumer](https://github.com/BaherAmmari/FarmerToConsumer-E-commerce-FullstackJS-MERN)
+- 🔭 I’m currently working on AutoRoad
 
-- 🌱 I’m currently learning **nextJs**
+- 🌱 I’m currently learning **nestJs**
 
-- 💬 Ask me about **ReactJs, NextJs, NodeJs, SpringBoot, .Net, Angular, Django**
+- 💬 Ask me about **ReactJs, NestJs, NodeJs, SpringBoot, .Net, Angular, Django**
 
 - 📫 How to reach me **baher.ammari@esprit.tn**
 
